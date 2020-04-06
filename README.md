@@ -25,3 +25,4 @@ Chess AI difficulty scale will be modified and the penalty points for each move 
 * Source: not released
 * Online access: not released
 * Demo scripts and videos: https://github.com/tieuchanlong/BrainiacChess-Demo
+* Youtube demo link: https://www.youtube.com/channel/UC0NQI5WqVNVjVLtggC11pdQ
