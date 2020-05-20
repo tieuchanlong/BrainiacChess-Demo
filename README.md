@@ -3,6 +3,8 @@
 ## Description
 This is the demo of my efforts in the Project BrainiacChess Dev Team. I participated in this project since February and things are under great pace of development. The project is not ready to be shipped yet, but presentable.
 
+![](Capture.PNG)
+
 ## Features
 * Chess AI system using MiniMax Algorithm and Alpha-Beta Pruning
 * Different levels of chess AI
